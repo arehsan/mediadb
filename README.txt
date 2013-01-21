@@ -1,0 +1,1 @@
+A PHP program listing detailed information from your xbmc database
