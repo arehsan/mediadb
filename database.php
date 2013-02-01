@@ -1,6 +1,6 @@
 <?php 
  // Database connection
- $db_hostname = "192.168.0.51";
- $db_username = "xbmc";
- $db_password = "xbmc";
+ $db_hostname = "";
+ $db_username = "";
+ $db_password = "";
  ?> 
